@@ -12,7 +12,7 @@
 - [PyPassword](https://github.com/777advait/Password-manager), a password manager that can securely save your passwords in images using [Steganography](https://en.wikipedia.org/wiki/Steganography)
 
 ### My rig
-*I use Neovim in Windows Terminal. Below are some screenshots.*
+I ~~use Neovim in Windows Terminal~~ switched to VS Code because things are a bit complicated while working in a virtualenv. Below are some screenshots.
 
 > Neofetch on Windows Terminal(Powershell)
 
