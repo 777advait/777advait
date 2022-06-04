@@ -4,7 +4,7 @@
 - I love playing video games.
 - I also love video and photo editing(not so good at it though).
 - Trying to create more projects in python
-- Willing to learn *Web development with Go* as backend language.
+- Currently learning *RUST*.
 
 ### These are some of my best projects that I created:
 - [Blackjack](https://github.com/777advait/udemy-milestone-projects/tree/main/milestone_project-2) game made using python as [Milestone project](https://github.com/777advait/udemy-milestone-projects)
