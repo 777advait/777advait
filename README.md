@@ -10,23 +10,17 @@
 - [Blackjack](https://github.com/777advait/udemy-milestone-projects/tree/main/milestone_project-2) game made using python as [Milestone project](https://github.com/777advait/udemy-milestone-projects)
 - [ToDo list CLI application](https://github.com/777advait/Todo-CLI), A basic Todo application that works on CRUD operations.
 - [PyPassword](https://github.com/777advait/Password-manager), a password manager that can securely save your passwords in images using [Steganography](https://en.wikipedia.org/wiki/Steganography)
+- [Zeus The Investigator](https://github.com/777advait/Zeus-The-Investigator), A pure python program that checks if a site is online/offline at the moment.
 
-### My rig
-I ~~use Neovim in Windows Terminal~~ switched to VS Code because things are a bit complicated while working in a virtualenv. Below are some screenshots.
-
-> Neofetch on Powershell
-
-![image](https://user-images.githubusercontent.com/76993204/160231206-fe513f7c-9418-489f-97ba-c59fbe0b18e8.png)
+### Setup
+#### **Neofetch**(Prompt customized using [Starship](https://starship.rs))
+![neofetch](https://user-images.githubusercontent.com/76993204/172875986-e8c8f239-4701-4ace-a858-104ae3072fb7.gif)
 
 
-> Neofetch on Bash
+#### **Neovim**(switched to VS Code)
+![neovim](https://user-images.githubusercontent.com/76993204/172876510-a9e3dbdd-5efd-44f9-be14-b88e4dde3893.png)
 
-![image](https://user-images.githubusercontent.com/76993204/160231393-8639b111-c05a-4d5b-9074-3de67ca7a9e0.png)
-
-
-> Neovim
-
-![Neovim](https://cdn.discordapp.com/attachments/597175122222252038/945609999894335508/neovim.png)
+To access my dotfiles(config files), [click here](https://github.com/777advait/dotfiles).
 
 ### Wishing to contact me?
 - You can connect with me on Discord. My username and tag is **777advait#6334**
