@@ -11,6 +11,7 @@
 - [ToDo list CLI application](https://github.com/777advait/Todo-CLI), A basic Todo application that works on CRUD operations.
 - [PyPassword](https://github.com/777advait/Password-manager), a password manager that can securely save your passwords in images using [Steganography](https://en.wikipedia.org/wiki/Steganography)
 - [Zeus The Investigator](https://github.com/777advait/Zeus-The-Investigator), A pure python program that checks if a site is online/offline at the moment.
+- [Obito](https://github.com/777advait/Obito), A URL file downloader that can download multiple files concurrently over internet.
 
 ### Setup
 #### **Neofetch**(Prompt customized using [Starship](https://starship.rs))
