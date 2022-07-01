@@ -15,7 +15,7 @@
 
 ### Setup
 #### **Neofetch**(Prompt customized using [Starship](https://starship.rs))
-![neofetch](https://cdn.discordapp.com/attachments/983572908553150484/986195450178719784/unknown.png)
+![neofetch](https://cdn.discordapp.com/attachments/983029972572721214/992450080416211054/unknown.png)
 
 
 #### **Neovim**(switched to VS Code)
