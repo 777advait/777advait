@@ -9,4 +9,4 @@ Additionally, I am interested in `Web3`.
 #### My Side Projects
 - [indielettr](https://indielettr.com/)
 - [lettr0](https://lettr0.me/) (WIP)
-- [trackker.io](https://trackker-io.vercel.app/)
+- [trackker.io](https://trackker-io.vercel.app/) (Archived)
