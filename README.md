@@ -1,7 +1,7 @@
 ### Hey, I'm Advait 👋🏻 
 #### Full Stack Engineer
 
-I enjoy developing full stack apps with `minimal` user interface and exploring new and modern technologies.
+I enjoy developing full stack apps with `minimal` user interface and exploring `modern` technologies.
 
 Additionally, I am interested in `Web3`.
 
