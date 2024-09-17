@@ -2,6 +2,7 @@
 #### Full Stack Engineer
 
 I enjoy developing full stack apps with `minimal` user interface and exploring `modern` technologies.
+You can find my resume [here](https://astro-dev.tech)
 
 Additionally, I am interested in `Web3`.
 
